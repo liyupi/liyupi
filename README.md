@@ -10,6 +10,7 @@
 - 😺 趣讲技术：<a href="https://space.bilibili.com/12890453" target="_blank">B站 程序员鱼皮</a> | 抖音 coder_yupi
 - 💬 微信：liyupi66
 - 🤔 有问题欢迎知乎 <a href="https://www.zhihu.com/people/yupi-31-97" target="_blank">@程序员鱼皮</a>
+- 👬 QQ 千人编程交流群：818860952
 
 <br/>
 <img src="https://github-profile-trophy.vercel.app/?username=liyupi&theme=flat&column=7" alt="logo" align="center" style="margin: auto;"/>
