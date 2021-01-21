@@ -7,4 +7,4 @@
 - 🌱 爱分享，公众号『 程序员鱼皮 』
 - 💬 微信：liyupi66
 
-<img src="https://github-profile-trophy.vercel.app/?username=liyupi&theme=flat&column=7" alt="logo" align="center" style="margin: auto;/>
+<img src="https://github-profile-trophy.vercel.app/?username=liyupi&theme=flat&column=7" alt="logo" align="center" style="margin: auto;"/>
