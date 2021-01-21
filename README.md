@@ -1,5 +1,3 @@
-
-<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=liyupi&show_icons=true" alt="logo" align="right" style="margin-bottom: 20px;" />
 
 ### 我是鱼皮 🐟
@@ -12,7 +10,5 @@
 - 🤔 有问题欢迎知乎 <a href="https://www.zhihu.com/people/yupi-31-97" target="_blank">@程序员鱼皮</a>
 
 <br/>
-<p style="margin-top: 20px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=liyupi&theme=flat&column=7" alt="logo" align="center" style="margin: auto;"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=liyupi&theme=flat&column=7" alt="logo" align="center" style="margin: auto;"/>
 
