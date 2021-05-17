@@ -1,6 +1,6 @@
 ## 我是鱼皮 🐟
 
-- 🐧 腾讯全栈攻城狮，<a href="https://www.cloudbase.net/community/support/preachers/yupi.html" target="_blank">腾讯云云开发高级布道师</a>，编程知识博主
+- 🐧 腾讯全栈攻城狮，腾讯云云开发高级布道师，编程知识博主
 - 🏡 作品：<a href="https://github.com/liyupi/code-nav" target="_blank">编程导航</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">免费编程资源大全</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">求星星 ✨</a>
 - 🌱 技术分享 <a href="" target="_blank">公众号『 程序员鱼皮 』</a>
 - 😺 快乐学习：<a href="https://space.bilibili.com/12890453" target="_blank">B站 程序员鱼皮</a> | 抖音 coder_yupi
