@@ -7,7 +7,7 @@
 - 😺 视频：<a href="https://space.bilibili.com/12890453" target="_blank">B站 程序员鱼皮</a> | 抖音 coder_yupi
 - 💬 微信：liyupi66
 - 🤔 问题：<a href="https://www.zhihu.com/people/yupi-31-97" target="_blank">知乎 @程序员鱼皮</a>
-- 👭 我的编程知识星球：<a target="_blank" href="https://docs.qq.com/doc/DUG93dVNHbVZjZXpo">帮你学编程、做项目的圈子，可向我提问</a>
+- 👭 我的编程知识星球：<a target="_blank" href="https://yupi.icu">帮你学编程、做项目的圈子，可向我提问</a>
 
 ## 今年汇总 ✨
 
