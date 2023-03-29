@@ -8,6 +8,8 @@
 - 💬 微信：yupi1085（请备注事由）
 - 🤔 问题：<a href="https://www.zhihu.com/people/yupi-31-97" target="_blank">知乎 @程序员鱼皮</a>
 - 👭 我的编程知识星球：<a target="_blank" href="https://yupi.icu">帮你学编程、做项目的圈子，可以向我 1 对 1 提问</a>
+- 🛫 万人 ChatGPT 免费交流群：<a target="_blank" href="https://t.zsxq.com/0cb9vuZXi">点击链接加入，把握时代风口</a>
+
 
 ## 今年汇总 ✨
 
