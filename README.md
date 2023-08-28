@@ -1,7 +1,7 @@
 ## 我是鱼皮 🐟
 
 - 🐧 前大厂全栈攻城狮，腾讯云开发高级布道师，全网百万粉编程知识博主，自主创业中
-- 👨‍💻 经历：<a href="https://docs.qq.com/doc/DUFFRVWladXVjeUxW" target="_blank">关于我，一位程序员 UP 的成长史</a>
+- 👨‍💻 经历：<a href="https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah" target="_blank">关于我，一位程序员 UP 的成长史</a>
 - 🏡 作品：<a href="https://github.com/liyupi/code-nav" target="_blank">编程导航</a> | <a href="https://github.com/liyupi/sql-father-frontend-public" target="_blank">SQL生成器</a> | <a href="https://github.com/liyupi/sql-mother" target="_blank">SQL自学网</a> | <a href="https://github.com/liyupi/yuindex" target="_blank">极客范主页</a> | <a href="https://github.com/liyupi/sql-generator" target="_blank">SQL生成器</a> | <a href="https://github.com/liyupi/mianshiya" target="_blank">面试鸭</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">免费编程资源大全</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">求星星 ✨</a>
 - 🌱 干货：<a href="https://github.com/liyupi/liyupi/blob/main/wechat_mp.png" target="_blank">公众号『 程序员鱼皮 』</a>
 - 😺 视频：<a href="https://space.bilibili.com/12890453" target="_blank">B站 程序员鱼皮</a> | 抖音 coder_yupi
