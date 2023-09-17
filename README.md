@@ -7,7 +7,7 @@
 - 😺 视频：<a href="https://space.bilibili.com/12890453" target="_blank">B站 程序员鱼皮</a> | 抖音、YouTube、知乎 程序员鱼皮
 - 📚 免费编程资源：<a href="https://yuyuanweb.feishu.cn/wiki/KSrdwPbuPiVjuvkPvd6cWLKgnCg" target="_blank">鱼皮原创文章汇总</a>
 - 💬 原创项目教程：<a href="https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd" target="_blank">全程直播带做的保姆级教程，现成的简历写法和面试题解</a>
-- 👭 我的编程知识星球：<a target="_blank" href="https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde">帮你学好编程、做项目的圈子，可以向我 1 对 1 提问</a>
+- 👭 编程导航：<a target="_blank" href="https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde">帮你学好编程、做项目的圈子，可以向我 1 对 1 提问</a>
 - 🤖 自研产品：<a target="_blank" href="https://www.yucongming.com">鱼聪明 AI 助手</a> | <a target="_blank" href="https://laoyujianli.com">老鱼简历</a> | <a target="_blank" href="https://kkdaxue.com">框框大学</a>
 
 
