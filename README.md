@@ -8,7 +8,7 @@
 - 📚 免费编程资源：<a href="https://github.com/liyupi/codefather" target="_blank">鱼皮的编程宝典</a> | <a href="https://yuyuanweb.feishu.cn/wiki/KSrdwPbuPiVjuvkPvd6cWLKgnCg" target="_blank">鱼皮原创文章汇总</a>
 - 💬 原创项目教程：<a href="https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd" target="_blank">全程直播带做的保姆级教程，现成的简历写法和面试题解</a>
 - 👭 编程导航：<a target="_blank" href="https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde">国内 TOP 级编程学习圈，帮你学好编程、做出项目、提升求职竞争力</a>
-- 🤖 自研产品：<a target="_blank" href="https://laoyujianli.com">老鱼简历</a> | <a target="_blank" href="https://www.yucongming.com">鱼聪明 AI 助手</a> | <a target="_blank" href="https://jianqiezhushou.com">剪切助手</a> | <a target="_blank" href="https://www.codecopy.cn">代码小抄</a> | <a target="_blank" href="https://kkdaxue.com">框框大学</a>
+- 🤖 自研产品：<a href="https://www.code-nav.cn" target="_blank">编程导航</a> | <a target="_blank" href="https://mianshiya.com">面试鸭</a> | <a target="_blank" href="https://laoyujianli.com">老鱼简历</a> | <a target="_blank" href="https://www.yucongming.com">鱼聪明 AI 助手</a> | <a target="_blank" href="https://jianqiezhushou.com">剪切助手</a> | <a target="_blank" href="https://www.codecopy.cn">代码小抄</a> | <a target="_blank" href="https://kkdaxue.com">框框大学</a>
 
 
 ## 今年汇总 ✨
