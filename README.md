@@ -16,6 +16,7 @@
 - 💬 编程学习交流：[编程导航 - 国内 TOP 级编程学习圈，免费学习路线 + 项目教程 + 答疑指导](https://www.codefather.cn)
 - 📃 简历快速制作：[老鱼简历 - 海量精美简历模板，帮你 1 分钟搞定简历、学会写好简历](https://laoyujianli.com)
 - ✏️ 面试刷题神器：[面试鸭 - 程序员面试刷题神器，用更短的时间突击备战面试、面试遇到原题](https://mianshiya.com)
+- 🤖 AI 知识库：[快速学习主流 AI 技术，获取第一手 AI 资讯，紧跟时代](https://github.com/liyupi/ai-guide)
 
 
 ## 今年汇总 ✨
